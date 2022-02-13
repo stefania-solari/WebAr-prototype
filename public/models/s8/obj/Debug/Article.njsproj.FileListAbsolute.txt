@@ -1,0 +1,3 @@
+C:\Users\stefa\Documents\apk_arcore\article\WebAR-Article-master\WebAR-Article-master\obj\Debug\Article.njsprojResolveAssemblyReference.cache
+C:\Users\stefa\Documents\apk_arcore\article\WebAR-Article-master\WebAR-Article-master\obj\Debug\Article.njsproj.CoreCompileInputs.cache
+C:\Users\stefa\Documents\apk_arcore\article\WebAR-Article-master\WebAR-Article-master\bin\Microsoft.NodejsTools.WebRole.dll
